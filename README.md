@@ -1,31 +1,52 @@
-<h1 align="center">SajjadShaik2005</h1>
-<h3 align="center">AI • Cloud • Systems Engineering</h3>
+<!-- SYSTEM HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;Building+Scalable+Systems;Cloud+Native+Developer;Always+Shipping...&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sajjad%20Shaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">AI • Cloud • Systems Engineering</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Designing+Intelligent+Systems;Cloud+Native+Builder;AI+Engineer+in+Progress;Shipping+Real+World+Projects&center=true&width=520&height=45">
 </p>
 
 ---
 
-# 💫 About Me:
-🎓 B.Tech CSE (AI & ML) | VIT Bhopal | 2027  
-⚙️ Building intelligent systems & cloud-native applications  
-📊 Focused on data-driven engineering and scalable AI  
-🚀 Learning by shipping real-world projects  
+<!-- ABOUT -->
 
+## 🧠 Systems Profile
 
-# 💻 Tech Stack:
-## ⚙️ Core Stack
+🎓 B.Tech CSE (AI & ML) • VIT Bhopal • 2027  
+⚙️ Building intelligent applications & scalable infrastructure  
+📊 Focused on data systems, ML pipelines, and deployment  
+🚀 Learning by shipping production-grade projects  
 
+---
+
+<!-- TECH STACK -->
+
+## ⚙️ Core Architecture
+
+### 🧠 AI Layer
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn)
+
+### ☁️ Cloud Layer
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+
+### 📊 Data Layer
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 
+---
 
-## 📊 GitHub Stats
+<!-- STATS -->
+
+## 📊 System Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SajjadShaik2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -36,13 +57,48 @@
   <img src="https://streak-stats.demolab.com?user=SajjadShaik2005&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-## 🔬 Currently Building
+<!-- ACTIVITY GRAPH -->
 
-- 🧠 ML-based Resume Screening System  
-- ☁️ AWS Deployed Scalable Web App  
-- 📊 Data Pipeline for Real-time Analytics  
+## 🛰️ Neural Activity Map
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadShaik2005&theme=tokyo-night&hide_border=true"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaik-mohammad-sajjad-013826284/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajjad102005@gmail.com) 
+---
+
+<!-- PROJECT CONTROL PANEL -->
+
+## 🧪 Active Systems
+
+| System | Stack | Status |
+|--------|-------|--------|
+| Resume Intelligence Engine | Python • NLP • AWS | 🟢 Active |
+| Scalable Cloud Web App | AWS • Docker • MySQL | 🟢 Deployed |
+| Real-Time Data Pipeline | Python • Pandas | 🟡 Optimizing |
+
+---
+
+<!-- CURRENT FOCUS -->
+
+## 🟢 Current Operations
+
+- 🧠 Deep Learning Architectures  
+- ☁️ AWS System Design  
+- 🧪 LLM & NLP Experiments  
+
+---
+
+<!-- CONTACT -->
+
+## 🌐 Network Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-mohammad-sajjad-013826284/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:sajjad102005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+

@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadShaik2005&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=AI+Engineer+in+Progress;Building+Scalable+Systems;Cloud+Native+Developer;Always+Shipping...&center=true&width=500&height=45">
 </p>
 
 
